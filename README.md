@@ -1,7 +1,7 @@
 # myPagePlus
 
 A simple web app that aggregates useful links and social media for a given user.<br>
-Use the app [here](https://mypageplus.herokuapp.com/).
+Use the app [here](https://mypageplusflask.herokuapp.com/).
 
 ## Built With
 
